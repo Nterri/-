@@ -284,7 +284,7 @@ body.lock {
 }
 
 .phone::before {
-  content: url(/svg/phone.svg);
+  content: url(../svg/phone.svg);
   width: 24px;
   height: 25px;
 }
@@ -389,7 +389,7 @@ body.lock {
 }
 
 .header__btn::before {
-  content: url(/svg/celendar.svg);
+  content: url(../svg/celendar.svg);
   width: 18px;
   height: 18px;
 }
@@ -618,7 +618,7 @@ body.lock {
 .hi-block__small-title::before {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  content: url(/svg/small-title.svg);
+  content: url(../svg/small-title.svg);
   width: 24px;
   height: 24px;
 }
@@ -2082,7 +2082,7 @@ body.lock {
 }
 
 .name {
-  background: url(/svg/name.svg) 2px 2px no-repeat;
+  background: url(../svg/name.svg) 2px 2px no-repeat;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -2105,7 +2105,7 @@ body.lock {
 }
 
 .email {
-  background: url(/svg/email.svg) 2px 2px no-repeat;
+  background: url(../svg/email.svg) 2px 2px no-repeat;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -2124,7 +2124,7 @@ body.lock {
 }
 
 .number {
-  background: url(/svg/phone-form.svg) 2px 2px no-repeat;
+  background: url(../svg/phone-form.svg) 2px 2px no-repeat;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -2143,7 +2143,7 @@ body.lock {
 }
 
 .company {
-  background: url(/svg/company.svg) 2px 2px no-repeat;
+  background: url(../svg/company.svg) 2px 2px no-repeat;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -2162,7 +2162,7 @@ body.lock {
 }
 
 .message-form {
-  background: url(/svg/text.svg) 2px 2px no-repeat;
+  background: url(../svg/text.svg) 2px 2px no-repeat;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
